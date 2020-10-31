@@ -15,5 +15,6 @@ Pylib contain python files that can be used in different projects.
 - agilent_connect.py: handles connection with agilent/keysight scopes using VISA protocol
 - wrappers.py: if handy selfmade wrappers/decorators are defined, put them here
 - safeserial.py: inherited class from Serial (pyserial package) to be able to handle serial debug communication with SafeLED more efficiëntly
+    (safeserial_old.py: old version --> <b>DEPRECATED</b>)
 - asp.py: Rx -> takes readouts from HPC input measurement and process them to useful data
 
